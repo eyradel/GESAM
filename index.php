@@ -3,6 +3,24 @@
     
   
 <head>
+	<!-- Primary Meta Tags -->
+<title>GESAM UMaT</title>
+<meta name="title" content="GESAM UMaT">
+<meta name="description" content="">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://gesam-umat.herokuapp.com/">
+<meta property="og:title" content="GESAM UMaT">
+<meta property="og:description" content="">
+<meta property="og:image" content="">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://gesam-umat.herokuapp.com/">
+<meta property="twitter:title" content="GESAM UMaT">
+<meta property="twitter:description" content="">
+<meta property="twitter:image" content="">
 	<!-- Basic Page Info -->
 	<meta charset="utf-8">
 
