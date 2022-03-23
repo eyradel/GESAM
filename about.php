@@ -4,6 +4,8 @@
 
 <meta name="title" content="Transcendence Studio GH">
 <meta name="description" content="Technology">
+    
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
         <link rel="icon" href="icon.png">
 <!-- Primary Meta Tags -->
 <title>GESAM UMaT</title>
