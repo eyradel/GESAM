@@ -4,40 +4,9 @@
 
 <meta name="title" content="Transcendence Studio GH">
 <meta name="description" content="Technology">
-        <link rel="icon" href="logo.png">
+        <link rel="icon" href="icon.png">
 <!-- Primary Meta Tags -->
-<title>Transcendence Studio GH</title>
-<meta name="title" content="Transcendence Studio GH">
-<meta name="description" content="Technology">
-
-<!-- Open Graph / Facebook -->
-<meta property="og:type" content="website">
-<meta property="og:url" content="http://www.transcendencestudiogh.tech/">
-<meta property="og:title" content="Transcendence Studio GH">
-<meta property="og:description" content="Technology">
-<meta property="og:image" content="http://www.transcendencestudiogh.tech/logo.png">
-
-<!-- Twitter -->
-<meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:url" content="http://www.transcendencestudiogh.tech/">
-<meta property="twitter:title" content="Transcendence Studio GH">
-<meta property="twitter:description" content="Technology">
-<meta property="twitter:image" content="http://www.transcendencestudiogh.tech/logo.png">
-	<!-- Site favicon -->
-	<link rel="apple-touch-icon" sizes="180x180" href="logo.png">
-	<link rel="icon" type="image/png" sizes="32x32" href="logo.png">
-	<link rel="icon" type="image/png" sizes="16x16" href="logo.png">
-
-	<!-- Mobile Specific Metas -->
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
-	<!-- Google Font -->
-	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
-	<!-- CSS -->
-	<link rel="stylesheet" type="text/css" href="vendors/styles/core.css">
-	<link rel="stylesheet" type="text/css" href="vendors/styles/icon-font.min.css">
-	<link rel="stylesheet" type="text/css" href="vendors/styles/style.css">
-    	<link rel="stylesheet" type="text/css" href="vendors/styles/mdb.css">
+<title>GESAM UMaT</title>
 
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-119386393-1"></script>
@@ -49,6 +18,18 @@
 
 		gtag('config', 'UA-119386393-1');
 	</script>
+    <!-- Google Font -->
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+	<!-- CSS -->
+	<link rel="stylesheet" type="text/css" href="vendors/styles/core.css">
+	<link rel="stylesheet" type="text/css" href="vendors/styles/icon-font.min.css">
+	<link rel="stylesheet" type="text/css" href="vendors/styles/style.css">
+    	<link rel="stylesheet" type="text/css" href="css/mdb.css">
+
+    <link rel="stylesheet" type="text/css" href="vendors/styles/core.css">
+	<link rel="stylesheet" type="text/css" href="vendors/styles/icon-font.min.css">
+	<link rel="stylesheet" type="text/css" href="src/plugins/fancybox/dist/jquery.fancybox.css">
+	<link rel="stylesheet" type="text/css" href="vendors/styles/style.css">
     <style>
     
     .cont {
@@ -128,9 +109,9 @@ span.underline {
     </style>
 </head>
 <body style="background:white">
-	<div class="pre-loader" style=" background-image: url('preview2.gif'); background-size:70%;">
+	<div class="pre-loader" >
 		<div class="pre-loader-box">
-			<div class="loader-logo"><img  src="logo.png" alt=""></div>
+			<div class="loader-logo"><img  src="icon.png" alt=""></div>
 			<div class='loader-progress' id="progress_div">
 				<div class='bar' id='bar1'></div>
 			</div>
@@ -180,7 +161,7 @@ span.underline {
                                 ?>
 								<li>
 									<a href="#">
-										<img src="logo.png" alt="">
+										<img src="icon.png" alt="">
 										<h3><?php echo $in['topic']?></h3>
 										<p><?php echo $in['date'];?></p>
                                         <p><?php echo $in['message'];?></p>
@@ -238,7 +219,7 @@ span.underline {
 		<div class="">
 			<a href="">
 				
-				<img src="logo.png" style="border-radius:50%; width:200px" alt="" class="light-logo">
+				<img src="icon.png" style="border-radius:50%; width:200px" alt="" class="light-logo">
                 
                 	
 			</a>
@@ -319,78 +300,183 @@ span.underline {
 		</div>
 	</div>
     
-    
-    
-    
-	<div class="mobile-menu-overlay"></div>
-<div class="col-md-3 col-sm-6 container" >
-   
-    
-<br>
-		
-        <div class="main-container  " >
-            
-         
-           
-     <div class="cont m-0 p-0 ">
-         
-         
-        <div class="position-relative bg">
-            <img src="assets/orange.svg" class="position-absolute">
-            <img src="assets/black.svg" class="position-absolute">
-            <img src="assets/blue.svg" class="position-absolute"
-            style="
-            right: 0px;top:2px;
-            "><img src="logo.png" class="position-absolute" style="width:150px; right: -5px;top:2px;">
-        </div>
-        
-       
+    <div class="mobile-menu-overlay"></div>
 
-        <div class="row mt-5 mb-2 ml-3 pt-5 pb-2">
-            <div class="col-1">
-               
-                <span class="note" style="color:gold;font-size:30px" >Transcendence Studio GH</span>
-            </div>
-        </div>
-        <div>
-         <div ><img class="card" src="pers.jpeg" width="150"></div>
-            <div class="col-12 d-flex flex-column">
-                <input type="text" placeholder="Kuwornu Eyram Dela" class="py-3 mb-3"  readonly>
-                <input type="text" placeholder="Transcendence Studio Lead" class="py-3 mb-3" readonly >
-                 <input type="text" placeholder="Ai/ML lead GDSC " class="py-3 mb-3" readonly >
-            </div>
-         
-         
-         
-         
-         </div>
-    </div>
-   
-      
-
-		
-				</div>
-
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                   
-					
+	<div class="main-container col-md-12">
+		<div class="pd-ltr-20 xs-pd-20-10">
+			<div class="min-height-200px">
+				<div class="page-header">
+					<div class="row">
+						<div class="col-md-12 col-sm-12">
+							<div class="title">
+								<h4>Gallery</h4>
+							</div>
+							<nav aria-label="breadcrumb" role="navigation">
+								<ol class="breadcrumb">
+									<li class="breadcrumb-item"><a href="index.html">Home</a></li>
+									<li class="breadcrumb-item active" aria-current="page">About</li>
+								</ol>
+							</nav>
+						</div>
 					</div>
-				
-        
-        
+				</div>
+				<div class="gallery-wrap">
+					<ul class="row">
+						<li class="col-lg-4 col-md-6 col-sm-12">
+							<div class="da-card box-shadow">
+								<div class="da-card-photo">
+									<img src="vendors/images/product-img1.jpg" alt="">
+									<div class="da-overlay">
+										<div class="da-social">
+										<h5 class="mb-10 color-white pd-20">Lorem ipsum dolor sit amet, consectetur adipisicing.</h5>
+											<ul class="clearfix">
+												<li><a href="IMG_20220313_100306_696.jpg" data-fancybox="images"><i class="fa fa-picture-o"></i></a></li>
+												<li><a href="#"><i class="fa fa-link"></i></a></li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li class="col-lg-4 col-md-6 col-sm-12">
+							<div class="da-card box-shadow">
+								<div class="da-card-photo">
+									<img src="vendors/images/product-img2.jpg" alt="">
+									<div class="da-overlay">
+										<div class="da-social">
+										<h5 class="mb-10 color-white pd-20">Lorem ipsum dolor sit amet, consectetur adipisicing.</h5>
+											<ul class="clearfix">
+												<li><a href="IMG_20220313_100321_546.jpg" data-fancybox="images"><i class="fa fa-picture-o"></i></a></li>
+												<li><a href="#"><i class="fa fa-link"></i></a></li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li class="col-lg-4 col-md-6 col-sm-12">
+							<div class="da-card box-shadow">
+								<div class="da-card-photo">
+									<img src="vendors/images/product-img3.jpg" alt="">
+									<div class="da-overlay">
+										<div class="da-social">
+										<h5 class="mb-10 color-white pd-20">Lorem ipsum dolor sit amet, consectetur adipisicing.</h5>
+											<ul class="clearfix">
+												<li><a href="IMG_20220313_105407_383.jpg" data-fancybox="images"><i class="fa fa-picture-o"></i></a></li>
+												<li><a href="#"><i class="fa fa-link"></i></a></li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li class="col-lg-4 col-md-6 col-sm-12">
+							<div class="da-card box-shadow">
+								<div class="da-card-photo">
+									<img src="vendors/images/product-img4.jpg" alt="">
+									<div class="da-overlay">
+										<div class="da-social">
+										<h5 class="mb-10 color-white pd-20">Lorem ipsum dolor sit amet, consectetur adipisicing.</h5>
+											<ul class="clearfix">
+												<li><a href="IMG_20220313_105418_265.jpg" data-fancybox="images"><i class="fa fa-picture-o"></i></a></li>
+												<li><a href="#"><i class="fa fa-link"></i></a></li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li class="col-lg-4 col-md-6 col-sm-12">
+							<div class="da-card box-shadow">
+								<div class="da-card-photo">
+									<img src="vendors/images/product-img1.jpg" alt="">
+									<div class="da-overlay">
+										<div class="da-social">
+										<h5 class="mb-10 color-white pd-20">Lorem ipsum dolor sit amet, consectetur adipisicing.</h5>
+											<ul class="clearfix">
+												<li><a href="IMG_20220313_105418_265.jpg" data-fancybox="images"><i class="fa fa-picture-o"></i></a></li>
+												<li><a href="#"><i class="fa fa-link"></i></a></li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li class="col-lg-4 col-md-6 col-sm-12">
+							<div class="da-card box-shadow">
+								<div class="da-card-photo">
+									<img src="vendors/images/product-img2.jpg" alt="">
+									<div class="da-overlay">
+										<div class="da-social">
+										<h5 class="mb-10 color-white pd-20">Lorem ipsum dolor sit amet, consectetur adipisicing.</h5>
+											<ul class="clearfix">
+												<li><a href="IMG_20220313_105535_091.jpg" data-fancybox="images"><i class="fa fa-picture-o"></i></a></li>
+												<li><a href="#"><i class="fa fa-link"></i></a></li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li class="col-lg-4 col-md-6 col-sm-12">
+							<div class="da-card box-shadow">
+								<div class="da-card-photo">
+									<img src="vendors/images/product-img3.jpg" alt="">
+									<div class="da-overlay">
+										<div class="da-social">
+										<h5 class="mb-10 color-white pd-20">Lorem ipsum dolor sit amet, consectetur adipisicing.</h5>
+											<ul class="clearfix">
+												<li><a href="IMG_20220320_101603_006.jpg" data-fancybox="images"><i class="fa fa-picture-o"></i></a></li>
+												<li><a href="#"><i class="fa fa-link"></i></a></li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li class="col-lg-4 col-md-6 col-sm-12">
+							<div class="da-card box-shadow">
+								<div class="da-card-photo">
+									<img src="vendors/images/product-img4.jpg" alt="">
+									<div class="da-overlay">
+										<div class="da-social">
+										<h5 class="mb-10 color-white pd-20">Lorem ipsum dolor sit amet, consectetur adipisicing.</h5>
+											<ul class="clearfix">
+												<li><a href="IMG_20220313_105418_265.jpg" data-fancybox="images"><i class="fa fa-picture-o"></i></a></li>
+												<li><a href="#"><i class="fa fa-link"></i></a></li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li class="col-lg-4 col-md-6 col-sm-12">
+							<div class="da-card box-shadow">
+								<div class="da-card-photo">
+									<img src="vendors/images/product-img1.jpg" alt="">
+									<div class="da-overlay">
+										<div class="da-social">
+										<h5 class="mb-10 color-white pd-20">Lorem ipsum dolor sit amet, consectetur adipisicing.</h5>
+											<ul class="clearfix">
+												<li><a href="vendors/images/product-img1.jpg" data-fancybox="images"><i class="fa fa-picture-o"></i></a></li>
+												<li><a href="#"><i class="fa fa-link"></i></a></li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="footer-wrap pd-20 mb-20 card-box">
+				@ <a href="transcendencestudiogh.tech" target="_blank">Transcendence studio gh</a>
+			</div>
+		</div>
+	</div>
+    
+    
 
-  
 							
                             
 					
@@ -429,6 +515,10 @@ span.underline {
 	<script src="vendors/scripts/script.min.js"></script>
 	<script src="vendors/scripts/process.js"></script>
 	<script src="vendors/scripts/layout-settings.js"></script>
+    <!-- js -->
+
+	<!-- fancybox Popup Js -->
+	<script src="src/plugins/fancybox/dist/jquery.fancybox.js"></script>
     
 </body>
 </html>
