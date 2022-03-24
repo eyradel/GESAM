@@ -255,30 +255,15 @@ span.underline {
 						</a>
 						
 					</li>
-                    <li >
-						<a href="cert.php" class="dropdown-toggle no-arrow">
-							<span class="micon dw dw-book"></span><span class="mtext">Certificate</span>
-						</a>
-						
-					</li>
+                    
 					
 					<li>
 						<a href="about.php" class="dropdown-toggle no-arrow">
 							<span class="micon dw dw-diagram"></span><span class="mtext">About</span>
 						</a>
 					</li>
-					<li >
-						<a href="check.php" class="dropdown-toggle no-arrow">
-							<span class="micon dw dw-check"></span><span class="mtext">Check Status</span>
-						</a>
-						
-					</li>
-                     <li >
-						<a href="reg.php" class="dropdown-toggle no-arrow">
-							<span class="micon dw dw-login"></span><span class="mtext">Register</span>
-						</a>
-						
-					</li>
+				
+                   
 					
 					<li>
 						<div class="dropdown-divider"></div>
